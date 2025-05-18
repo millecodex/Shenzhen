@@ -40,6 +40,7 @@ blockchain, software health, GitHub, factor analysis, trace data
  - pdf download: to be posted
 
 ---
+![image](https://github.com/user-attachments/assets/cc62c06e-f37f-4b15-b658-adab21784b1e)
 
 Great city for a conference :cowboy_hat_face:
 
