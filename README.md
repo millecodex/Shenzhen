@@ -25,23 +25,22 @@ blockchain, software health, GitHub, factor analysis, trace data
 ### Column Detail
 | Column name       | Description                                                                            |
 | ----------------- | -------------------------------------------------------------------------------------- |
-| ID                | A unique identifier for each repository                                                |
-| stars_tot         | The total number of stars the repository has received                                   |
-| forks_tot         | The total number of forks the repository has received                                   |
-| auth_tot          | The total number of authors who have contributed to the repository                     |
-| authors_ma3       | The average number of monthly authors who have contributed to the repository in the past three months |
-| commits_ma3       | The average number of monthly commits made to the repository in the past three months       |
-| comments_ma3      | The average number of monthly comments in the repository in the past three months |
-| PR_open_ma3       | The average number of monthly pull requests that were opened in the repository in the past three months |
-| days_inactive     | The number of days since the repository was active |
+| ID                | tbd |
+| stars_tot         | tbd |
+| forks_tot         | tbd |
+| auth_tot          | tbd |
+| authors_ma3       | tbd |
+| commits_ma3       | tbd |
+| comments_ma3      | tbd |
+| PR_open_ma3       | tbd |
+| days_inactive     | tbd |
 
 ## Links
  - DOI: to be posted 
  - pdf download: to be posted
 
 ---
-![image](https://github.com/user-attachments/assets/cc62c06e-f37f-4b15-b658-adab21784b1e)
 
 Great city for a conference :cowboy_hat_face:
+![image](https://github.com/user-attachments/assets/cc62c06e-f37f-4b15-b658-adab21784b1e)
 
-<img src="https://user-images.githubusercontent.com/39792005/211440457-2014ab67-912f-48e5-9eed-4cb08eb981f3.jpg" width="1000"/>
